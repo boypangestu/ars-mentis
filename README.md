@@ -7,7 +7,7 @@ A curated list of my favorite books, websites, and articles related to software 
 ## Books
 - **Clean Code** by Robert C. Martin - [Amazon Link](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - **The Pragmatic Programmer** by Andrew Hunt and David Thomas - [Amazon Link](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
-- - **How to Build a Second Brain** by Tiago Forte - [Amazon Link](https://www.amazon.com/How-Build-Second-Brain-Organize/dp/1982167386)
+- **How to Build a Second Brain** by Tiago Forte - [Amazon Link](https://www.amazon.com/How-Build-Second-Brain-Organize/dp/1982167386)
 
 
 ## Websites
